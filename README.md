@@ -19,10 +19,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianNBartonout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- "chartreuse-dark": {
-    title_color: "7fff00",
-    icon_color: "00AEFF",
-    text_color: "fff",
-    bg_color: "000",
-  },
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=BrianNBarton&show_icons=true&theme=chartreuse-dark)
