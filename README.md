@@ -6,14 +6,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on our Capstone Project Triet Diet
-- 🌱 I’m currently learning Full Stack Developement
+- 🔭 Capstone Project Triet Diet
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on Applications
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🤔 I’m looking for a junior developer role
+- 💬 Ask me about my tech stack
+
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianNBarton&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
